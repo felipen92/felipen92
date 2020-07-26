@@ -10,6 +10,8 @@
   
   - 📚 Meu foco nos estudos é voltado para back-end com Java
   
+  - 📌 Habilidades: Java, Spring Boot, Spring Data e SQL 
+  
 ###  Aqui é onde você pode encontrar-me! ✉
   
   [LINKEDIN](https://www.linkedin.com/in/felipe-barros-119438142/)
